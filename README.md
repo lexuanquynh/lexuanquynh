@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lexuanquynh&label=Profile%20views&color=0e75b6&style=flat" alt="lexuanquynh" /> </p>
 
-- 🔭 I’m currently working on **Japan**
+- 🔭 I’m currently working on **Swift**
 
 - 🌱 I’m currently learning **Golang**
 
