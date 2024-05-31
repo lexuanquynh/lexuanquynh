@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📝 I regularly write articles on [https://codetoanbug.com](codetoanbug.com)
+- 📝 I regularly write articles on [https://codetoanbug.com](https://codetoanbug.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lexuanquynh&show_icons=true&locale=en&layout=compact" alt="lexuanquynh" /></p>
 
