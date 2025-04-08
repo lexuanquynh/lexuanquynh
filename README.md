@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lexuanquynh&label=Profile%20views&color=0e75b6&style=flat" alt="lexuanquynh" /> </p>
 
-- 🔭 I’m currently working on **Swift**
-
-- 🌱 I’m currently learning **Golang**
+- 🔭 I'm currently working on iOS (Objective-C, Swift) and Golang. 🌱
 
 - 📝 I regularly write articles on [https://codetoanbug.com](https://codetoanbug.com)
 
