@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quynh</h1>
+<h1 align="center">Hi 👋, I'm Code toan bug</h1>
 <h3 align="center">A mobile full stack developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lexuanquynh&label=Profile%20views&color=0e75b6&style=flat" alt="lexuanquynh" /> </p>
