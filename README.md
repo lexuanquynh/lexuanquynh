@@ -1,5 +1,5 @@
-<h1 align="center">Xin chào, mình là Code Toàn Bug 👋</h1>
-<h3 align="center">Senior iOS Developer & Solo Entrepreneur từ Hà Nội, Việt Nam 🇻🇳</h3>
+<h1 align="center">Hi, I'm Code Toàn Bug 👋</h1>
+<h3 align="center">Senior iOS Developer & Solo Entrepreneur from Hanoi, Vietnam 🇻🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lexuanquynh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,22 +9,21 @@
 
 ---
 
-### 🧑‍💻 Về mình
+### 🧑‍💻 About me
 
-- 🔭 Đang xây dựng **[LearningVN](https://learningvn.com)** — ứng dụng học lập trình tích hợp AI (iOS · Android · Web)
-- 📱 **12+ năm** kinh nghiệm phát triển iOS (Objective-C, Swift, SwiftUI)
-- 🌏 Freelance từ xa cho công ty Nhật, làm app y tế trên iPad (giao tiếp bằng keigo)
-- ✍️ Viết blog & content hài tech tại [codetoanbug.com](https://codetoanbug.com)
-- 🎯 Đang ôn thi **PMP Certification** (deadline ECO July 2026)
-- ☕ Fun fact: *"Bug không phải lỗi — chỉ là feature chưa kịp viết doc."*
+- 🔭 Building **[LearningVN](https://learningvn.com)** — AI-powered coding education app (iOS · Android · Web)
+- 📱 **12+ years** of iOS development (Objective-C, Swift, SwiftUI)
+- 🌏 Remote freelancer for a Japanese company
+- ✍️ Writing blog posts & tech humor content at [codetoanbug.com](https://codetoanbug.com)
+- ☕ Fun fact: *"A bug isn't a bug — it's a feature missing its documentation."*
 
 ---
 
 ### 🚀 Featured Project
 
 > ### 📚 [LearningVN](https://learningvn.com) — AI-powered Coding Education
-> Học lập trình với **AI Tutor**, Pomodoro, Quiz Battle multiplayer, offline mode.  
-> Hỗ trợ 9+ ngôn ngữ. Built with `SwiftUI` · `Kotlin` · `React` · `Vite` · `Supabase`.
+> Learn programming with an **AI Tutor**, Pomodoro mode, multiplayer **Quiz Battle**, and offline support.  
+> Available in 9+ languages. Built with `SwiftUI` · `Kotlin` · `React` · `Vite` · `Supabase`.
 
 ---
 
@@ -88,9 +87,22 @@
 
 ### ☕ Support
 
-<a href="https://www.buymeacoffee.com/codetoanbug">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" />
-</a>
+If my blog or apps have helped you, consider buying me a coffee! 🙌
 
-<br><br>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.buymeacoffee.com/codetoanbug">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="buy me a coffee" />
+      </a>
+      <br><sub>🌍 International</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.vietqr.io/image/TPB-quynhbkhn-compact2.png?accountName=LE%20XUAN%20QUYNH&addInfo=Coffee%20for%20Code%20Toan%20Bug" height="200" alt="VietQR TPBank" />
+      <br><sub>🇻🇳 Scan with any Vietnamese banking app</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
 <sub>⚡ <i>"Code is poetry, bug is plot twist."</i> — Code Toàn Bug</sub>
